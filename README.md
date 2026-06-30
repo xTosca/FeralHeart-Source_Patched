@@ -15,6 +15,9 @@ Important notices, acceptable use, and third‑party license details are include
 
 This codebase is being released without a full build compilation setup. Not all of these instructions may work for you, but the codebase includes everything that is technically necessary to duplicate and create a new FH instance. This is a complex project and it will take strong commitment if an individual decides they wish to deploy their own FeralHeart game client and server. The following instructions are non-exhaustive and more work may be needed to ready a FH game client and server.
 
+## CRYPT KEY DISCLAIMER
+
+You may notice on compile that you may recieve the error CRYPT_KEY undefined. You will have to create your own Crypt key to compile this version of the source, this was done to protect the communities maps and presets that were made on the old crypt key which was exposed in prior repos. You as a user are responsible for decompiling any of oFH's maps, objects, etc. and making them compatible with this code and your crypt key.
 
 
 ## Repository structure
