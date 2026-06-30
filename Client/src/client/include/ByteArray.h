@@ -7,7 +7,7 @@
 #include <ZipConstants.h>
 
 #define CHUNK 16384
-#define CRYPT_KEY "r3D3y3Y0uSuCky0Ub3tT3Rn0Tf1NdTh1S0R1w1Lld3C4p1T@t3Y0uW1tH@Tun1NgF0rK"
+#define CRYPT_KEY "insert crypt key here. DO NOT LEAVE THIS DEFAULT"
 
 using namespace std;
 
