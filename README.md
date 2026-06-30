@@ -4,7 +4,7 @@ FeralHeart is a free-to-play, 3D online multiplayer roleplaying game developed a
 
 This code is NOT 1:1 the original version of KovuLKD's FeralHeart source code, and is rather a recreation that might be hybridized code- as has been discovered by Phloxenfree and Bingus- full credit to them for pointing this out.
 
-This version of the code also contains patches for security vulnerabilities that had been discovered, as well.
+This version of the code also contains patches for security vulnerabilities that had been discovered, as well. However, it is still vulnerable to SQL injection and other avenues of invasion. It also currently contains a static XOR key. Please work on this with caution, and ask on the Open Heart forums or discord if you need help.
 
 This repository contains FeralHeart’s Windows (Win32) C++ codebase for running a FeralHeart-style game client and a trio of servers (front, main, map). It is provided to enable community duplication and learning, including running your own private FeralHeart-compatible game for personal or community use subject to the Acceptable Use Policy and license terms below. This repository contains source code only; third‑party SDKs and game assets are not included.
 
